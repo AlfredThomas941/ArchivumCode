@@ -1,0 +1,5 @@
+python-barcode
+pillow
+pypdf2
+reportlab
+pdfminer.six
