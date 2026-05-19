@@ -39,8 +39,8 @@ Handles **scanned, text-based, or mixed PDFs**.
 
 1️⃣ **Clone this repo**  
 ```bash
-git clone https://github.com/<your-username>/PDF-Barcode-Tagger.git
-cd PDF-Barcode-Tagger
+git clone https://github.com/AlfredThomas941/ArchivumCode.git
+cd ArchivumCode
 ```
 
 2️⃣ **Install dependencies**  
